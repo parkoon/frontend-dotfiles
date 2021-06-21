@@ -1,5 +1,16 @@
 # KCD Frontend dotfiles
 
+## Setting
+
+### Code Spell Checker
+
+> 현재 설정은 예시로 되어 있으며, 각 프로젝트에 맞게 설정해주시면 됩니다.
+
+[cspell.json](/Users/jayden/Kreditspace/frontend-dotfiles/public/.vscode/cspell.json) 에서 각 프로젝트에 맞게 설정을 해줍니다.
+
+- `words` - 프로젝트에서 허용할 단어들을 명시해줍니다.
+- `ignorePaths` - 무시할 파일 및 폴더들을 명시해줍니다.
+
 ## Run
 
 ```shellscript
